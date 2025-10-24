@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**SmartCoachAI/SmartCoachAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **SmartCoach AI** — a next-generation B2B platform that empowers gyms to deliver personalized training, nutrition, and recovery experiences powered by AI.
 
-Here are some ideas to get you started:
+💪 **Our mission:**  
+To help fitness centers retain members, optimize trainer time, and create scalable premium experiences through smart automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Live demo:** [SmartCoach AI Landing Page](https://smartcoachai.github.io/SmartCoachAI-1/)  
+📄 **Case Study:** [FitPalermo Gym Success Story](./Case%20study.pdf)  
+📩 **Request a Demo:** Available on the landing page form.
+
+---
+© 2025 SmartCoach AI — All rights reserved.
